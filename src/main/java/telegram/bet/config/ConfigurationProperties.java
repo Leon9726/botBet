@@ -5,7 +5,7 @@ import org.springframework.context.annotation.PropertySource;
 
 
 @Configuration
-@PropertySource("file:/opt/telegram_bot/config/config.properties")
+@PropertySource("file:/opt/botBet/config/config.properties")
 public class ConfigurationProperties {
 	
 
